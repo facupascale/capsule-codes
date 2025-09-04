@@ -13,7 +13,7 @@ Sitio web profesional desarrollado con Next.js 14, TypeScript y Tailwind CSS. In
 ### Características
 
 - ✨ Diseño moderno y responsivo
-- 🌍 Soporte multilingüe (ES/EN/PT)
+- 🌍 Soporte multilingüe (ES/EN/IT)
 - 🎨 UI components con shadcn/ui
 - 📱 Optimizado para móviles
 - 🚀 SSR con Next.js 14
@@ -27,24 +27,24 @@ Professional website built with Next.js 14, TypeScript, and Tailwind CSS. Featur
 ### Features
 
 - ✨ Modern and responsive design
-- 🌍 Multilingual support (ES/EN/PT)
+- 🌍 Multilingual support (ES/EN/IT)
 - 🎨 UI components with shadcn/ui
 - 📱 Mobile optimized
 - 🚀 SSR with Next.js 14
 
 ---
 
-## 🇧🇷 Português
+## 🇮🇹 Italiano
 
-Site web profissional desenvolvido com Next.js 14, TypeScript e Tailwind CSS. Inclui seções de serviços, projetos, tecnologias e contato com suporte multilíngue.
+Sito web professionale sviluppato con Next.js 14, TypeScript e Tailwind CSS. Include sezioni di servizi, progetti, tecnologie e contatto con supporto multilingue.
 
-### Características
+### Caratteristiche
 
-- ✨ Design moderno e responsivo
-- 🌍 Suporte multilíngue (ES/EN/PT)
-- 🎨 Componentes UI com shadcn/ui
-- 📱 Otimizado para mobile
-- 🚀 SSR com Next.js 14
+- ✨ Design moderno e responsive
+- 🌍 Supporto multilingue (ES/EN/IT)
+- 🎨 Componenti UI con shadcn/ui
+- 📱 Ottimizzato per mobile
+- 🚀 SSR con Next.js 14
 
 ---
 
